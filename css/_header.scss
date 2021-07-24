@@ -1,6 +1,6 @@
 header {
   nav {
-    background: $color3;
+    background: $color4;
 
     .nav-contain {
       display: flex;
@@ -12,16 +12,21 @@ header {
       .link {
         text-decoration: none;
         color: $color1;
+        font-weight: bold;
       }
     }
   }
 
   .head-section {
     position: relative;
-    background: #000;
     color: $color1;
     padding-bottom: 20px;
     height: auto;
+    background: #161415 url(/images/laptop-5.jpeg) no-repeat top center;
+    background-size: cover !important;
+    -webkit-background-size: cover !important;
+    text-align: center;
+    overflow: hidden;
 
     .inner-head {
       width: 100%;

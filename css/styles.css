@@ -22,7 +22,7 @@ h6 {
 }
 
 header nav {
-  background: #4d4c4c;
+  background: #000;
 }
 
 header nav .nav-contain {
@@ -36,14 +36,19 @@ header nav .nav-contain {
 header nav .nav-contain .link {
   text-decoration: none;
   color: #ebe7e7;
+  font-weight: bold;
 }
 
 header .head-section {
   position: relative;
-  background: #000;
   color: #ebe7e7;
   padding-bottom: 20px;
   height: auto;
+  background: #161415 url(/images/laptop-5.jpeg) no-repeat top center;
+  background-size: cover !important;
+  -webkit-background-size: cover !important;
+  text-align: center;
+  overflow: hidden;
 }
 
 header .head-section .inner-head {
