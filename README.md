@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://Oxford-G.github.io/portfolio/.)
+[Live Demo Link](https://gracious-hermann-bca978.netlify.app/)
 
 ## Authors
 
