@@ -33,10 +33,29 @@ header nav .nav-contain {
   padding: 15px;
 }
 
-header nav .nav-contain .link {
+.left {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* margin: 0 10px; */
+  /* padding: 15px; */
+}
+
+ul li {
+  list-style: none;
+  padding-left: 15px;
+}
+
+/* header nav .nav-contain .link {
   text-decoration: none;
   color: #ebe7e7;
   font-weight: bold;
+} */
+
+.link {
+  text-decoration: none;
+  color: #ebe7e7;
+  font-weight: 600;
 }
 
 header .head-section {
